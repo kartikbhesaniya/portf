@@ -868,6 +868,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
+   margin: 0 36px;
 }
 
 .card-blog .card-category-box {
