@@ -868,7 +868,7 @@ a:hover {
 
 .card-blog .card-body {
   position: relative;
-   margin: 0 36px;
+    /* margin: 1px 36px */
 }
 
 .card-blog .card-category-box {
@@ -901,7 +901,7 @@ a:hover {
 
 .card-blog .card-title {
   font-size: 1.3rem;
-  margin-top: .6rem;
+  margin-top: 1.6rem;
 }
 
 .card-blog .card-description {
