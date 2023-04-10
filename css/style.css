@@ -1182,6 +1182,9 @@ footer .credits a {
   line-height: 1.5;
   border-radius: .3rem;
 }
+.resume a{
+  color: #fff;
+}
 
 @media (min-width: 577px) {
   .counter-box {
